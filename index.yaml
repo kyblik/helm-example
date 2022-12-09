@@ -1,0 +1,14 @@
+apiVersion: v1
+entries:
+  hello-world:
+  - apiVersion: v2
+    appVersion: 1.16.0
+    created: "2022-12-09T20:10:08.0993727Z"
+    description: A Helm chart for Kubernetes
+    digest: ebe2477e2e76f52fc98fb0fd8555b215e6128b7ec23fb8d59accd20ccf418931
+    name: hello-world
+    type: application
+    urls:
+    - https://github.com/kyblik/helm-example/releases/download/hello-world-0.1.0/hello-world-0.1.0.tgz
+    version: 0.1.0
+generated: "2022-12-09T20:10:08.0993805Z"
